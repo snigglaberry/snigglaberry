@@ -4,5 +4,7 @@ i used to make roblox exploits but then i had a beam of hope in my life and made
 
 links:
 discord: @im.chez
+
 minecraft: [chezd](https://namemc.com/profile/chezd)
+
 github: [snigglaberry](https://github.com/snigglaberry)
