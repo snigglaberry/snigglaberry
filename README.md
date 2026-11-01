@@ -9,8 +9,7 @@
 <p>i used to make roblox stuff.</p>
 <br>
 <a href="https://critlauncher.xyz">
-  <img src="crit-icon.svg" width="20" height="20" align="absmiddle">
-  <img src="https://img.shields.io/badge/VISIT_CRIT_LAUNCHER-292929?style=for-the-badge&labelColor=292929" align="absmiddle">
+  <img src="crit-button.svg" alt="Visit Crit Launcher" width="220">
 </a>
 </td>
 <td width="35%" align="right">
